@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /Users/lakshminarayanan/NEU/Sem\\ -\\ 3/AI/Assignment/neu-self-improve-ai/week_07/week_07/RAGEN_STARPO && python:*)",
+      "Bash(cd /Users/lakshminarayanan/NEU/Sem\\ -\\ 3/AI/Assignment/neu-self-improve-ai/week_07/week_07/RAGEN_STARPO && python3:*)",
+      "Bash(cd:*)",
+      "Bash(cd /Users/lakshminarayanan/NEU/Sem - 3/AI/Assignment/neu-self-improve-ai/week_07/week_07/RAGEN_STARPO && ls:*)",
+      "Bash(python3:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

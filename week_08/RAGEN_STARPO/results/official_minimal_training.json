@@ -1,0 +1,16 @@
+{
+  "config": {
+    "num_epochs": 1,
+    "num_products": 100,
+    "batch_size": 2,
+    "lr": 0.0003
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "avg_reward": -0.1,
+      "loss": 0.0070681150536984205
+    }
+  ],
+  "best_reward": -0.1
+}

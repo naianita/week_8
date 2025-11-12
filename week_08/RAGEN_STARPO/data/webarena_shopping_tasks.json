@@ -1,0 +1,122 @@
+[
+  {
+    "task_id": "shopping_001",
+    "intent": "Search for wireless headphones and find the cheapest option",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_002",
+    "intent": "Find the price of HP Inkjet Fax Machine",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_003",
+    "intent": "Add the highest rated laptop to your cart",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "url_match"
+    ]
+  },
+  {
+    "task_id": "shopping_004",
+    "intent": "Compare prices of two different smartphones",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_005",
+    "intent": "Search for running shoes under $100",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_006",
+    "intent": "Find products in the Electronics category",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770/categories",
+    "require_login": false,
+    "eval_types": [
+      "url_match"
+    ]
+  },
+  {
+    "task_id": "shopping_007",
+    "intent": "Check if a specific product is in stock",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_008",
+    "intent": "Sort products by price from low to high",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770/search",
+    "require_login": false,
+    "eval_types": [
+      "url_match"
+    ]
+  },
+  {
+    "task_id": "shopping_009",
+    "intent": "Read customer reviews for a product",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  },
+  {
+    "task_id": "shopping_010",
+    "intent": "Find all products with 5-star ratings",
+    "sites": [
+      "shopping"
+    ],
+    "start_url": "http://localhost:7770",
+    "require_login": false,
+    "eval_types": [
+      "string_match"
+    ]
+  }
+]

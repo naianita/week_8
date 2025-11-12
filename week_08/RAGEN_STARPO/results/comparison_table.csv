@@ -1,0 +1,3 @@
+Benchmark,Environment,Complexity,Tasks,Success Rate,Avg Steps,Agent Type,Observations,Actions
+WebShop,Text-based shopping,Simple (search/click/buy),100,67.0%,9.3,RAGEN + A*PO (trained),Text descriptions,18 predefined commands
+WebArena,Real websites (4 domains),Complex (full browser),812,14.4%,3.9,GPT-4 with Chain-of-Thought,Accessibility tree + DOM,Browser actions (click/type/scroll)

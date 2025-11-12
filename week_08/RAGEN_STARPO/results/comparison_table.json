@@ -1,0 +1,24 @@
+{
+  "WebShop": {
+    "benchmark": "WebShop",
+    "environment": "Text-based shopping",
+    "complexity": "Simple (search/click/buy)",
+    "tasks": 100,
+    "success_rate": 0.67,
+    "avg_steps": 9.28,
+    "agent_type": "RAGEN + A*PO (trained)",
+    "observations": "Text descriptions",
+    "actions": "18 predefined commands"
+  },
+  "WebArena": {
+    "benchmark": "WebArena",
+    "environment": "Real websites (4 domains)",
+    "complexity": "Complex (full browser)",
+    "tasks": 812,
+    "success_rate": 0.1441,
+    "avg_steps": 3.9,
+    "agent_type": "GPT-4 with Chain-of-Thought",
+    "observations": "Accessibility tree + DOM",
+    "actions": "Browser actions (click/type/scroll)"
+  }
+}

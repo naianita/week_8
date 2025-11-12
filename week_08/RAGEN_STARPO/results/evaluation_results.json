@@ -1,0 +1,375 @@
+{
+  "num_episodes": 100,
+  "success_rate": 0.67,
+  "failure_rate": 0.33,
+  "avg_reward": 0.17299999999999993,
+  "avg_steps": 9.28,
+  "total_successes": 67,
+  "total_failures": 33,
+  "failure_cases": [
+    {
+      "episode": 3,
+      "trajectory": [
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search pillow",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Pillow (ID 249), Portable Pillow (ID 250), Olive Pillow (ID 25"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search pillow",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Pillow (ID 249), Portable Pillow (ID 250), Olive Pillow (ID 25"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search charger",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Phone Charger (ID 81), Beige Phone Charger (ID 82), Eco-Friend"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        }
+      ],
+      "final_reward": 0
+    },
+    {
+      "episode": 4,
+      "trajectory": [
+        {
+          "action": "click 4",
+          "observation": "OBS: Viewing: Charcoal Running Shoes\nPrice: $65\nCategory: shoes\nREWARD: -0.05 | DONE: False"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search charger",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Phone Charger (ID 81), Beige Phone Charger (ID 82), Eco-Friend"
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        }
+      ],
+      "final_reward": -0.05
+    },
+    {
+      "episode": 9,
+      "trajectory": [
+        {
+          "action": "click 76",
+          "observation": "OBS: Viewing: Vintage Smart Watch\nPrice: $53\nCategory: electronics\nREWARD: -0.05 | DONE: False"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        }
+      ],
+      "final_reward": -0.05
+    },
+    {
+      "episode": 10,
+      "trajectory": [
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        }
+      ],
+      "final_reward": 0
+    },
+    {
+      "episode": 11,
+      "trajectory": [
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search pillow",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Pillow (ID 249), Portable Pillow (ID 250), Olive Pillow (ID 25"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "buy 37",
+          "observation": "OBS: Purchased: Modern Loafers \u2717 Wrong item (wanted: Orange Measuring Cups)\nREWARD: -0.20 | DONE: Tr"
+        }
+      ],
+      "final_reward": -0.2
+    },
+    {
+      "episode": 16,
+      "trajectory": [
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search sneakers",
+          "observation": "OBS: Found 7 results. Top 5: Deluxe Sneakers (ID 8), Gold Sneakers (ID 9), Yellow Sneakers (ID 10), "
+        },
+        {
+          "action": "search charger",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Phone Charger (ID 81), Beige Phone Charger (ID 82), Eco-Friend"
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        }
+      ],
+      "final_reward": 0
+    },
+    {
+      "episode": 17,
+      "trajectory": [
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search pillow",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Pillow (ID 249), Portable Pillow (ID 250), Olive Pillow (ID 25"
+        },
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "buy 31",
+          "observation": "OBS: Purchased: Black Loafers \u2717 Wrong item (wanted: Turquoise Backpack)\nREWARD: -0.20 | DONE: True"
+        }
+      ],
+      "final_reward": -0.1
+    },
+    {
+      "episode": 19,
+      "trajectory": [
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "buy 97",
+          "observation": "OBS: Purchased: Olive Bluetooth Speaker \u2717 Wrong item (wanted: Ultra Jacket)\nREWARD: -0.20 | DONE: Tr"
+        }
+      ],
+      "final_reward": -0.2
+    },
+    {
+      "episode": 21,
+      "trajectory": [
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "buy 69",
+          "observation": "OBS: Purchased: Teal Headphones \u2717 Wrong item (wanted: Premium Hoodie)\nREWARD: -0.20 | DONE: True"
+        }
+      ],
+      "final_reward": -0.2
+    },
+    {
+      "episode": 31,
+      "trajectory": [
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search charger",
+          "observation": "OBS: Found 6 results. Top 5: Charcoal Phone Charger (ID 81), Beige Phone Charger (ID 82), Eco-Friend"
+        },
+        {
+          "action": "search sandals",
+          "observation": "OBS: Found 8 results. Top 5: Basic Sandals (ID 23), Classic Sandals (ID 24), Ultra Sandals (ID 25), "
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search boots",
+          "observation": "OBS: Found 8 results. Top 5: Pro Boots (ID 15), Beige Boots (ID 16), Heavy-Duty Boots (ID 17), Class"
+        },
+        {
+          "action": "search dumbbells",
+          "observation": "OBS: Found 6 results. Top 5: Navy Dumbbells (ID 193), Turquoise Dumbbells (ID 194), Charcoal Dumbbel"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search black shoes",
+          "observation": "OBS: No results for 'black shoes'.\nREWARD: -0.05 | DONE: False"
+        },
+        {
+          "action": "search watch",
+          "observation": "OBS: Found 12 results. Top 5: Gold Smart Watch (ID 75), Vintage Smart Watch (ID 76), Basic Smart Wat"
+        },
+        {
+          "action": "search headphones",
+          "observation": "OBS: Found 6 results. Top 5: Teal Headphones (ID 69), Burgundy Headphones (ID 70), Gray Headphones ("
+        }
+      ],
+      "final_reward": -0.05
+    }
+  ]
+}

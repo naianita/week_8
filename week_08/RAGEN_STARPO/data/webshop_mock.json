@@ -1,0 +1,6466 @@
+[
+  {
+    "id": 0,
+    "title": "Red Running Shoes",
+    "price": 95,
+    "category": "shoes",
+    "reward_tag": "red running",
+    "target": "buy red running shoes",
+    "attributes": ["running", "athletic", "sports", "jogging"]
+  },
+  {
+    "id": 1,
+    "title": "Ultra Running Shoes",
+    "price": 119,
+    "category": "shoes",
+    "reward_tag": "ultra running",
+    "target": "buy ultra running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Yellow Running Shoes",
+    "price": 84,
+    "category": "shoes",
+    "reward_tag": "yellow running",
+    "target": "buy yellow running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Navy Running Shoes",
+    "price": 73,
+    "category": "shoes",
+    "reward_tag": "navy running",
+    "target": "buy navy running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Charcoal Running Shoes",
+    "price": 65,
+    "category": "shoes",
+    "reward_tag": "charcoal running",
+    "target": "buy charcoal running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pro Running Shoes",
+    "price": 49,
+    "category": "shoes",
+    "reward_tag": "pro running",
+    "target": "buy pro running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Teal Running Shoes",
+    "price": 57,
+    "category": "shoes",
+    "reward_tag": "teal running",
+    "target": "buy teal running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Premium Running Shoes",
+    "price": 127,
+    "category": "shoes",
+    "reward_tag": "premium running",
+    "target": "buy premium running shoes",
+    "attributes": [
+      "running",
+      "athletic",
+      "sports",
+      "jogging"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Deluxe Sneakers",
+    "price": 111,
+    "category": "shoes",
+    "reward_tag": "deluxe sneakers",
+    "target": "buy deluxe sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Gold Sneakers",
+    "price": 136,
+    "category": "shoes",
+    "reward_tag": "gold sneakers",
+    "target": "buy gold sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Yellow Sneakers",
+    "price": 76,
+    "category": "shoes",
+    "reward_tag": "yellow sneakers",
+    "target": "buy yellow sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Modern Sneakers",
+    "price": 50,
+    "category": "shoes",
+    "reward_tag": "modern sneakers",
+    "target": "buy modern sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Brown Sneakers",
+    "price": 77,
+    "category": "shoes",
+    "reward_tag": "brown sneakers",
+    "target": "buy brown sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Purple Sneakers",
+    "price": 75,
+    "category": "shoes",
+    "reward_tag": "purple sneakers",
+    "target": "buy purple sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Compact Sneakers",
+    "price": 56,
+    "category": "shoes",
+    "reward_tag": "compact sneakers",
+    "target": "buy compact sneakers",
+    "attributes": [
+      "casual",
+      "street",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pro Boots",
+    "price": 80,
+    "category": "shoes",
+    "reward_tag": "pro boots",
+    "target": "buy pro boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Beige Boots",
+    "price": 143,
+    "category": "shoes",
+    "reward_tag": "beige boots",
+    "target": "buy beige boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Heavy-Duty Boots",
+    "price": 147,
+    "category": "shoes",
+    "reward_tag": "heavy-duty boots",
+    "target": "buy heavy-duty boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Classic Boots",
+    "price": 112,
+    "category": "shoes",
+    "reward_tag": "classic boots",
+    "target": "buy classic boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Black Boots",
+    "price": 88,
+    "category": "shoes",
+    "reward_tag": "black boots",
+    "target": "buy black boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Navy Boots",
+    "price": 48,
+    "category": "shoes",
+    "reward_tag": "navy boots",
+    "target": "buy navy boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Gray Boots",
+    "price": 63,
+    "category": "shoes",
+    "reward_tag": "gray boots",
+    "target": "buy gray boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "White Boots",
+    "price": 47,
+    "category": "shoes",
+    "reward_tag": "white boots",
+    "target": "buy white boots",
+    "attributes": [
+      "hiking",
+      "winter",
+      "work"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Basic Sandals",
+    "price": 44,
+    "category": "shoes",
+    "reward_tag": "basic sandals",
+    "target": "buy basic sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Classic Sandals",
+    "price": 67,
+    "category": "shoes",
+    "reward_tag": "classic sandals",
+    "target": "buy classic sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Ultra Sandals",
+    "price": 85,
+    "category": "shoes",
+    "reward_tag": "ultra sandals",
+    "target": "buy ultra sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Premium Sandals",
+    "price": 50,
+    "category": "shoes",
+    "reward_tag": "premium sandals",
+    "target": "buy premium sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Modern Sandals",
+    "price": 88,
+    "category": "shoes",
+    "reward_tag": "modern sandals",
+    "target": "buy modern sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Red Sandals",
+    "price": 30,
+    "category": "shoes",
+    "reward_tag": "red sandals",
+    "target": "buy red sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Brown Sandals",
+    "price": 122,
+    "category": "shoes",
+    "reward_tag": "brown sandals",
+    "target": "buy brown sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Silver Sandals",
+    "price": 142,
+    "category": "shoes",
+    "reward_tag": "silver sandals",
+    "target": "buy silver sandals",
+    "attributes": [
+      "summer",
+      "beach",
+      "casual"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Black Loafers",
+    "price": 134,
+    "category": "shoes",
+    "reward_tag": "black loafers",
+    "target": "buy black loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Olive Loafers",
+    "price": 38,
+    "category": "shoes",
+    "reward_tag": "olive loafers",
+    "target": "buy olive loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Teal Loafers",
+    "price": 127,
+    "category": "shoes",
+    "reward_tag": "teal loafers",
+    "target": "buy teal loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Classic Loafers",
+    "price": 98,
+    "category": "shoes",
+    "reward_tag": "classic loafers",
+    "target": "buy classic loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Pink Loafers",
+    "price": 128,
+    "category": "shoes",
+    "reward_tag": "pink loafers",
+    "target": "buy pink loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Brown Loafers",
+    "price": 46,
+    "category": "shoes",
+    "reward_tag": "brown loafers",
+    "target": "buy brown loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Modern Loafers",
+    "price": 46,
+    "category": "shoes",
+    "reward_tag": "modern loafers",
+    "target": "buy modern loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Eco-Friendly Loafers",
+    "price": 114,
+    "category": "shoes",
+    "reward_tag": "eco-friendly loafers",
+    "target": "buy eco-friendly loafers",
+    "attributes": [
+      "dress",
+      "formal",
+      "office"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Compact Slippers",
+    "price": 59,
+    "category": "shoes",
+    "reward_tag": "compact slippers",
+    "target": "buy compact slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Purple Slippers",
+    "price": 38,
+    "category": "shoes",
+    "reward_tag": "purple slippers",
+    "target": "buy purple slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Black Slippers",
+    "price": 145,
+    "category": "shoes",
+    "reward_tag": "black slippers",
+    "target": "buy black slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Classic Slippers",
+    "price": 34,
+    "category": "shoes",
+    "reward_tag": "classic slippers",
+    "target": "buy classic slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Premium Slippers",
+    "price": 140,
+    "category": "shoes",
+    "reward_tag": "premium slippers",
+    "target": "buy premium slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Gold Slippers",
+    "price": 72,
+    "category": "shoes",
+    "reward_tag": "gold slippers",
+    "target": "buy gold slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Green Slippers",
+    "price": 39,
+    "category": "shoes",
+    "reward_tag": "green slippers",
+    "target": "buy green slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Eco-Friendly Slippers",
+    "price": 95,
+    "category": "shoes",
+    "reward_tag": "eco-friendly slippers",
+    "target": "buy eco-friendly slippers",
+    "attributes": [
+      "indoor",
+      "comfortable",
+      "home"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Charcoal High Heels",
+    "price": 98,
+    "category": "shoes",
+    "reward_tag": "charcoal high",
+    "target": "buy charcoal high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Navy High Heels",
+    "price": 87,
+    "category": "shoes",
+    "reward_tag": "navy high",
+    "target": "buy navy high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Pro High Heels",
+    "price": 47,
+    "category": "shoes",
+    "reward_tag": "pro high",
+    "target": "buy pro high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Gray High Heels",
+    "price": 84,
+    "category": "shoes",
+    "reward_tag": "gray high",
+    "target": "buy gray high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Pink High Heels",
+    "price": 53,
+    "category": "shoes",
+    "reward_tag": "pink high",
+    "target": "buy pink high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Black High Heels",
+    "price": 65,
+    "category": "shoes",
+    "reward_tag": "black high",
+    "target": "buy black high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Olive High Heels",
+    "price": 89,
+    "category": "shoes",
+    "reward_tag": "olive high",
+    "target": "buy olive high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Teal High Heels",
+    "price": 61,
+    "category": "shoes",
+    "reward_tag": "teal high",
+    "target": "buy teal high heels",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Gray Flip Flops",
+    "price": 49,
+    "category": "shoes",
+    "reward_tag": "gray flip",
+    "target": "buy gray flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Heavy-Duty Flip Flops",
+    "price": 54,
+    "category": "shoes",
+    "reward_tag": "heavy-duty flip",
+    "target": "buy heavy-duty flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Deluxe Flip Flops",
+    "price": 67,
+    "category": "shoes",
+    "reward_tag": "deluxe flip",
+    "target": "buy deluxe flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Turquoise Flip Flops",
+    "price": 57,
+    "category": "shoes",
+    "reward_tag": "turquoise flip",
+    "target": "buy turquoise flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Navy Flip Flops",
+    "price": 37,
+    "category": "shoes",
+    "reward_tag": "navy flip",
+    "target": "buy navy flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Pro Flip Flops",
+    "price": 104,
+    "category": "shoes",
+    "reward_tag": "pro flip",
+    "target": "buy pro flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Pink Flip Flops",
+    "price": 124,
+    "category": "shoes",
+    "reward_tag": "pink flip",
+    "target": "buy pink flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Portable Flip Flops",
+    "price": 99,
+    "category": "shoes",
+    "reward_tag": "portable flip",
+    "target": "buy portable flip flops",
+    "attributes": [
+      "beach",
+      "pool",
+      "summer"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Modern Earbuds",
+    "price": 186,
+    "category": "electronics",
+    "reward_tag": "modern earbuds",
+    "target": "buy modern earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Brown Earbuds",
+    "price": 198,
+    "category": "electronics",
+    "reward_tag": "brown earbuds",
+    "target": "buy brown earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Pink Earbuds",
+    "price": 95,
+    "category": "electronics",
+    "reward_tag": "pink earbuds",
+    "target": "buy pink earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Eco-Friendly Earbuds",
+    "price": 76,
+    "category": "electronics",
+    "reward_tag": "eco-friendly earbuds",
+    "target": "buy eco-friendly earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Silver Earbuds",
+    "price": 82,
+    "category": "electronics",
+    "reward_tag": "silver earbuds",
+    "target": "buy silver earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Green Earbuds",
+    "price": 116,
+    "category": "electronics",
+    "reward_tag": "green earbuds",
+    "target": "buy green earbuds",
+    "attributes": [
+      "wireless",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Teal Headphones",
+    "price": 184,
+    "category": "electronics",
+    "reward_tag": "teal headphones",
+    "target": "buy teal headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Burgundy Headphones",
+    "price": 41,
+    "category": "electronics",
+    "reward_tag": "burgundy headphones",
+    "target": "buy burgundy headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Gray Headphones",
+    "price": 49,
+    "category": "electronics",
+    "reward_tag": "gray headphones",
+    "target": "buy gray headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Pro Headphones",
+    "price": 82,
+    "category": "electronics",
+    "reward_tag": "pro headphones",
+    "target": "buy pro headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Eco-Friendly Headphones",
+    "price": 44,
+    "category": "electronics",
+    "reward_tag": "eco-friendly headphones",
+    "target": "buy eco-friendly headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Beige Headphones",
+    "price": 42,
+    "category": "electronics",
+    "reward_tag": "beige headphones",
+    "target": "buy beige headphones",
+    "attributes": [
+      "over-ear",
+      "noise-canceling",
+      "audio"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Gold Smart Watch",
+    "price": 191,
+    "category": "electronics",
+    "reward_tag": "gold smart",
+    "target": "buy gold smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Vintage Smart Watch",
+    "price": 53,
+    "category": "electronics",
+    "reward_tag": "vintage smart",
+    "target": "buy vintage smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Basic Smart Watch",
+    "price": 154,
+    "category": "electronics",
+    "reward_tag": "basic smart",
+    "target": "buy basic smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Deluxe Smart Watch",
+    "price": 24,
+    "category": "electronics",
+    "reward_tag": "deluxe smart",
+    "target": "buy deluxe smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "White Smart Watch",
+    "price": 109,
+    "category": "electronics",
+    "reward_tag": "white smart",
+    "target": "buy white smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Teal Smart Watch",
+    "price": 164,
+    "category": "electronics",
+    "reward_tag": "teal smart",
+    "target": "buy teal smart watch",
+    "attributes": [
+      "fitness",
+      "tracking",
+      "wearable"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Charcoal Phone Charger",
+    "price": 112,
+    "category": "electronics",
+    "reward_tag": "charcoal phone",
+    "target": "buy charcoal phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Beige Phone Charger",
+    "price": 24,
+    "category": "electronics",
+    "reward_tag": "beige phone",
+    "target": "buy beige phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Eco-Friendly Phone Charger",
+    "price": 135,
+    "category": "electronics",
+    "reward_tag": "eco-friendly phone",
+    "target": "buy eco-friendly phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Pink Phone Charger",
+    "price": 71,
+    "category": "electronics",
+    "reward_tag": "pink phone",
+    "target": "buy pink phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Pro Phone Charger",
+    "price": 66,
+    "category": "electronics",
+    "reward_tag": "pro phone",
+    "target": "buy pro phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Premium Phone Charger",
+    "price": 132,
+    "category": "electronics",
+    "reward_tag": "premium phone",
+    "target": "buy premium phone charger",
+    "attributes": [
+      "fast",
+      "USB-C",
+      "wireless"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "White Power Bank",
+    "price": 103,
+    "category": "electronics",
+    "reward_tag": "white power",
+    "target": "buy white power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Gray Power Bank",
+    "price": 95,
+    "category": "electronics",
+    "reward_tag": "gray power",
+    "target": "buy gray power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Silver Power Bank",
+    "price": 126,
+    "category": "electronics",
+    "reward_tag": "silver power",
+    "target": "buy silver power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Vintage Power Bank",
+    "price": 170,
+    "category": "electronics",
+    "reward_tag": "vintage power",
+    "target": "buy vintage power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Olive Power Bank",
+    "price": 145,
+    "category": "electronics",
+    "reward_tag": "olive power",
+    "target": "buy olive power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Heavy-Duty Power Bank",
+    "price": 44,
+    "category": "electronics",
+    "reward_tag": "heavy-duty power",
+    "target": "buy heavy-duty power bank",
+    "attributes": [
+      "portable",
+      "charging",
+      "battery"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Purple Bluetooth Speaker",
+    "price": 185,
+    "category": "electronics",
+    "reward_tag": "purple bluetooth",
+    "target": "buy purple bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Beige Bluetooth Speaker",
+    "price": 112,
+    "category": "electronics",
+    "reward_tag": "beige bluetooth",
+    "target": "buy beige bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Pro Bluetooth Speaker",
+    "price": 188,
+    "category": "electronics",
+    "reward_tag": "pro bluetooth",
+    "target": "buy pro bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Lightweight Bluetooth Speaker",
+    "price": 59,
+    "category": "electronics",
+    "reward_tag": "lightweight bluetooth",
+    "target": "buy lightweight bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Olive Bluetooth Speaker",
+    "price": 172,
+    "category": "electronics",
+    "reward_tag": "olive bluetooth",
+    "target": "buy olive bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Gold Bluetooth Speaker",
+    "price": 160,
+    "category": "electronics",
+    "reward_tag": "gold bluetooth",
+    "target": "buy gold bluetooth speaker",
+    "attributes": [
+      "portable",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "White Laptop Stand",
+    "price": 21,
+    "category": "electronics",
+    "reward_tag": "white laptop",
+    "target": "buy white laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Pink Laptop Stand",
+    "price": 26,
+    "category": "electronics",
+    "reward_tag": "pink laptop",
+    "target": "buy pink laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Charcoal Laptop Stand",
+    "price": 77,
+    "category": "electronics",
+    "reward_tag": "charcoal laptop",
+    "target": "buy charcoal laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Purple Laptop Stand",
+    "price": 136,
+    "category": "electronics",
+    "reward_tag": "purple laptop",
+    "target": "buy purple laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Deluxe Laptop Stand",
+    "price": 171,
+    "category": "electronics",
+    "reward_tag": "deluxe laptop",
+    "target": "buy deluxe laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Lightweight Laptop Stand",
+    "price": 33,
+    "category": "electronics",
+    "reward_tag": "lightweight laptop",
+    "target": "buy lightweight laptop stand",
+    "attributes": [
+      "ergonomic",
+      "adjustable",
+      "desk"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Brown USB Cable",
+    "price": 155,
+    "category": "electronics",
+    "reward_tag": "brown usb",
+    "target": "buy brown usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Portable USB Cable",
+    "price": 129,
+    "category": "electronics",
+    "reward_tag": "portable usb",
+    "target": "buy portable usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Vintage USB Cable",
+    "price": 55,
+    "category": "electronics",
+    "reward_tag": "vintage usb",
+    "target": "buy vintage usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Black USB Cable",
+    "price": 136,
+    "category": "electronics",
+    "reward_tag": "black usb",
+    "target": "buy black usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Ultra USB Cable",
+    "price": 130,
+    "category": "electronics",
+    "reward_tag": "ultra usb",
+    "target": "buy ultra usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Silver USB Cable",
+    "price": 81,
+    "category": "electronics",
+    "reward_tag": "silver usb",
+    "target": "buy silver usb cable",
+    "attributes": [
+      "charging",
+      "data",
+      "transfer"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Yellow Keyboard",
+    "price": 67,
+    "category": "electronics",
+    "reward_tag": "yellow keyboard",
+    "target": "buy yellow keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Red Keyboard",
+    "price": 122,
+    "category": "electronics",
+    "reward_tag": "red keyboard",
+    "target": "buy red keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Turquoise Keyboard",
+    "price": 114,
+    "category": "electronics",
+    "reward_tag": "turquoise keyboard",
+    "target": "buy turquoise keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Pro Keyboard",
+    "price": 164,
+    "category": "electronics",
+    "reward_tag": "pro keyboard",
+    "target": "buy pro keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Ultra Keyboard",
+    "price": 193,
+    "category": "electronics",
+    "reward_tag": "ultra keyboard",
+    "target": "buy ultra keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Compact Keyboard",
+    "price": 20,
+    "category": "electronics",
+    "reward_tag": "compact keyboard",
+    "target": "buy compact keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Classic Keyboard",
+    "price": 162,
+    "category": "electronics",
+    "reward_tag": "classic keyboard",
+    "target": "buy classic keyboard",
+    "attributes": [
+      "mechanical",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Modern Mouse",
+    "price": 36,
+    "category": "electronics",
+    "reward_tag": "modern mouse",
+    "target": "buy modern mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "White Mouse",
+    "price": 179,
+    "category": "electronics",
+    "reward_tag": "white mouse",
+    "target": "buy white mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Eco-Friendly Mouse",
+    "price": 124,
+    "category": "electronics",
+    "reward_tag": "eco-friendly mouse",
+    "target": "buy eco-friendly mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Olive Mouse",
+    "price": 49,
+    "category": "electronics",
+    "reward_tag": "olive mouse",
+    "target": "buy olive mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Pro Mouse",
+    "price": 133,
+    "category": "electronics",
+    "reward_tag": "pro mouse",
+    "target": "buy pro mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Green Mouse",
+    "price": 61,
+    "category": "electronics",
+    "reward_tag": "green mouse",
+    "target": "buy green mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Blue Mouse",
+    "price": 27,
+    "category": "electronics",
+    "reward_tag": "blue mouse",
+    "target": "buy blue mouse",
+    "attributes": [
+      "wireless",
+      "ergonomic",
+      "gaming"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Purple Hoodie",
+    "price": 80,
+    "category": "apparel",
+    "reward_tag": "purple hoodie",
+    "target": "buy purple hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Premium Hoodie",
+    "price": 34,
+    "category": "apparel",
+    "reward_tag": "premium hoodie",
+    "target": "buy premium hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Yellow Hoodie",
+    "price": 92,
+    "category": "apparel",
+    "reward_tag": "yellow hoodie",
+    "target": "buy yellow hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Basic Hoodie",
+    "price": 47,
+    "category": "apparel",
+    "reward_tag": "basic hoodie",
+    "target": "buy basic hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Green Hoodie",
+    "price": 79,
+    "category": "apparel",
+    "reward_tag": "green hoodie",
+    "target": "buy green hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Gray Hoodie",
+    "price": 52,
+    "category": "apparel",
+    "reward_tag": "gray hoodie",
+    "target": "buy gray hoodie",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "warm"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Basic T-Shirt",
+    "price": 67,
+    "category": "apparel",
+    "reward_tag": "basic t-shirt",
+    "target": "buy basic t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Purple T-Shirt",
+    "price": 28,
+    "category": "apparel",
+    "reward_tag": "purple t-shirt",
+    "target": "buy purple t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Charcoal T-Shirt",
+    "price": 84,
+    "category": "apparel",
+    "reward_tag": "charcoal t-shirt",
+    "target": "buy charcoal t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Black T-Shirt",
+    "price": 63,
+    "category": "apparel",
+    "reward_tag": "black t-shirt",
+    "target": "buy black t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Premium T-Shirt",
+    "price": 21,
+    "category": "apparel",
+    "reward_tag": "premium t-shirt",
+    "target": "buy premium t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Pink T-Shirt",
+    "price": 73,
+    "category": "apparel",
+    "reward_tag": "pink t-shirt",
+    "target": "buy pink t-shirt",
+    "attributes": [
+      "casual",
+      "cotton",
+      "basic"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Black Jeans",
+    "price": 83,
+    "category": "apparel",
+    "reward_tag": "black jeans",
+    "target": "buy black jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Red Jeans",
+    "price": 61,
+    "category": "apparel",
+    "reward_tag": "red jeans",
+    "target": "buy red jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Brown Jeans",
+    "price": 43,
+    "category": "apparel",
+    "reward_tag": "brown jeans",
+    "target": "buy brown jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Purple Jeans",
+    "price": 82,
+    "category": "apparel",
+    "reward_tag": "purple jeans",
+    "target": "buy purple jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Portable Jeans",
+    "price": 47,
+    "category": "apparel",
+    "reward_tag": "portable jeans",
+    "target": "buy portable jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Turquoise Jeans",
+    "price": 65,
+    "category": "apparel",
+    "reward_tag": "turquoise jeans",
+    "target": "buy turquoise jeans",
+    "attributes": [
+      "denim",
+      "casual",
+      "pants"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Olive Jacket",
+    "price": 80,
+    "category": "apparel",
+    "reward_tag": "olive jacket",
+    "target": "buy olive jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Pro Jacket",
+    "price": 90,
+    "category": "apparel",
+    "reward_tag": "pro jacket",
+    "target": "buy pro jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Ultra Jacket",
+    "price": 87,
+    "category": "apparel",
+    "reward_tag": "ultra jacket",
+    "target": "buy ultra jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Compact Jacket",
+    "price": 64,
+    "category": "apparel",
+    "reward_tag": "compact jacket",
+    "target": "buy compact jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Gray Jacket",
+    "price": 74,
+    "category": "apparel",
+    "reward_tag": "gray jacket",
+    "target": "buy gray jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Yellow Jacket",
+    "price": 90,
+    "category": "apparel",
+    "reward_tag": "yellow jacket",
+    "target": "buy yellow jacket",
+    "attributes": [
+      "outdoor",
+      "winter",
+      "coat"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Portable Sweater",
+    "price": 88,
+    "category": "apparel",
+    "reward_tag": "portable sweater",
+    "target": "buy portable sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Red Sweater",
+    "price": 36,
+    "category": "apparel",
+    "reward_tag": "red sweater",
+    "target": "buy red sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Basic Sweater",
+    "price": 55,
+    "category": "apparel",
+    "reward_tag": "basic sweater",
+    "target": "buy basic sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Gold Sweater",
+    "price": 25,
+    "category": "apparel",
+    "reward_tag": "gold sweater",
+    "target": "buy gold sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Charcoal Sweater",
+    "price": 26,
+    "category": "apparel",
+    "reward_tag": "charcoal sweater",
+    "target": "buy charcoal sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Burgundy Sweater",
+    "price": 90,
+    "category": "apparel",
+    "reward_tag": "burgundy sweater",
+    "target": "buy burgundy sweater",
+    "attributes": [
+      "warm",
+      "knit",
+      "cozy"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Navy Dress",
+    "price": 91,
+    "category": "apparel",
+    "reward_tag": "navy dress",
+    "target": "buy navy dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Eco-Friendly Dress",
+    "price": 73,
+    "category": "apparel",
+    "reward_tag": "eco-friendly dress",
+    "target": "buy eco-friendly dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Pro Dress",
+    "price": 97,
+    "category": "apparel",
+    "reward_tag": "pro dress",
+    "target": "buy pro dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Charcoal Dress",
+    "price": 96,
+    "category": "apparel",
+    "reward_tag": "charcoal dress",
+    "target": "buy charcoal dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Turquoise Dress",
+    "price": 99,
+    "category": "apparel",
+    "reward_tag": "turquoise dress",
+    "target": "buy turquoise dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Green Dress",
+    "price": 48,
+    "category": "apparel",
+    "reward_tag": "green dress",
+    "target": "buy green dress",
+    "attributes": [
+      "formal",
+      "party",
+      "elegant"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Portable Shorts",
+    "price": 49,
+    "category": "apparel",
+    "reward_tag": "portable shorts",
+    "target": "buy portable shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Navy Shorts",
+    "price": 56,
+    "category": "apparel",
+    "reward_tag": "navy shorts",
+    "target": "buy navy shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Brown Shorts",
+    "price": 56,
+    "category": "apparel",
+    "reward_tag": "brown shorts",
+    "target": "buy brown shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Purple Shorts",
+    "price": 78,
+    "category": "apparel",
+    "reward_tag": "purple shorts",
+    "target": "buy purple shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Green Shorts",
+    "price": 29,
+    "category": "apparel",
+    "reward_tag": "green shorts",
+    "target": "buy green shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Yellow Shorts",
+    "price": 49,
+    "category": "apparel",
+    "reward_tag": "yellow shorts",
+    "target": "buy yellow shorts",
+    "attributes": [
+      "summer",
+      "casual",
+      "athletic"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Brown Leggings",
+    "price": 97,
+    "category": "apparel",
+    "reward_tag": "brown leggings",
+    "target": "buy brown leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Modern Leggings",
+    "price": 52,
+    "category": "apparel",
+    "reward_tag": "modern leggings",
+    "target": "buy modern leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Classic Leggings",
+    "price": 23,
+    "category": "apparel",
+    "reward_tag": "classic leggings",
+    "target": "buy classic leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Pro Leggings",
+    "price": 31,
+    "category": "apparel",
+    "reward_tag": "pro leggings",
+    "target": "buy pro leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Eco-Friendly Leggings",
+    "price": 49,
+    "category": "apparel",
+    "reward_tag": "eco-friendly leggings",
+    "target": "buy eco-friendly leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Red Leggings",
+    "price": 93,
+    "category": "apparel",
+    "reward_tag": "red leggings",
+    "target": "buy red leggings",
+    "attributes": [
+      "athletic",
+      "yoga",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Red Sweatpants",
+    "price": 90,
+    "category": "apparel",
+    "reward_tag": "red sweatpants",
+    "target": "buy red sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Gray Sweatpants",
+    "price": 24,
+    "category": "apparel",
+    "reward_tag": "gray sweatpants",
+    "target": "buy gray sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Green Sweatpants",
+    "price": 78,
+    "category": "apparel",
+    "reward_tag": "green sweatpants",
+    "target": "buy green sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Classic Sweatpants",
+    "price": 31,
+    "category": "apparel",
+    "reward_tag": "classic sweatpants",
+    "target": "buy classic sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Turquoise Sweatpants",
+    "price": 60,
+    "category": "apparel",
+    "reward_tag": "turquoise sweatpants",
+    "target": "buy turquoise sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Purple Sweatpants",
+    "price": 52,
+    "category": "apparel",
+    "reward_tag": "purple sweatpants",
+    "target": "buy purple sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "White Sweatpants",
+    "price": 61,
+    "category": "apparel",
+    "reward_tag": "white sweatpants",
+    "target": "buy white sweatpants",
+    "attributes": [
+      "comfortable",
+      "casual",
+      "lounge"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Teal Tank Top",
+    "price": 90,
+    "category": "apparel",
+    "reward_tag": "teal tank",
+    "target": "buy teal tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Gray Tank Top",
+    "price": 72,
+    "category": "apparel",
+    "reward_tag": "gray tank",
+    "target": "buy gray tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "White Tank Top",
+    "price": 31,
+    "category": "apparel",
+    "reward_tag": "white tank",
+    "target": "buy white tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Gold Tank Top",
+    "price": 48,
+    "category": "apparel",
+    "reward_tag": "gold tank",
+    "target": "buy gold tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Vintage Tank Top",
+    "price": 34,
+    "category": "apparel",
+    "reward_tag": "vintage tank",
+    "target": "buy vintage tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Turquoise Tank Top",
+    "price": 79,
+    "category": "apparel",
+    "reward_tag": "turquoise tank",
+    "target": "buy turquoise tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Yellow Tank Top",
+    "price": 35,
+    "category": "apparel",
+    "reward_tag": "yellow tank",
+    "target": "buy yellow tank top",
+    "attributes": [
+      "summer",
+      "sleeveless",
+      "casual"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Eco-Friendly Yoga Mat",
+    "price": 78,
+    "category": "fitness",
+    "reward_tag": "eco-friendly yoga",
+    "target": "buy eco-friendly yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Premium Yoga Mat",
+    "price": 71,
+    "category": "fitness",
+    "reward_tag": "premium yoga",
+    "target": "buy premium yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Classic Yoga Mat",
+    "price": 54,
+    "category": "fitness",
+    "reward_tag": "classic yoga",
+    "target": "buy classic yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "White Yoga Mat",
+    "price": 52,
+    "category": "fitness",
+    "reward_tag": "white yoga",
+    "target": "buy white yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Navy Yoga Mat",
+    "price": 80,
+    "category": "fitness",
+    "reward_tag": "navy yoga",
+    "target": "buy navy yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Brown Yoga Mat",
+    "price": 79,
+    "category": "fitness",
+    "reward_tag": "brown yoga",
+    "target": "buy brown yoga mat",
+    "attributes": [
+      "exercise",
+      "non-slip",
+      "workout"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Navy Dumbbells",
+    "price": 62,
+    "category": "fitness",
+    "reward_tag": "navy dumbbells",
+    "target": "buy navy dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Turquoise Dumbbells",
+    "price": 29,
+    "category": "fitness",
+    "reward_tag": "turquoise dumbbells",
+    "target": "buy turquoise dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Charcoal Dumbbells",
+    "price": 19,
+    "category": "fitness",
+    "reward_tag": "charcoal dumbbells",
+    "target": "buy charcoal dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Eco-Friendly Dumbbells",
+    "price": 70,
+    "category": "fitness",
+    "reward_tag": "eco-friendly dumbbells",
+    "target": "buy eco-friendly dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "White Dumbbells",
+    "price": 43,
+    "category": "fitness",
+    "reward_tag": "white dumbbells",
+    "target": "buy white dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Portable Dumbbells",
+    "price": 53,
+    "category": "fitness",
+    "reward_tag": "portable dumbbells",
+    "target": "buy portable dumbbells",
+    "attributes": [
+      "weights",
+      "strength",
+      "training"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Portable Resistance Bands",
+    "price": 47,
+    "category": "fitness",
+    "reward_tag": "portable resistance",
+    "target": "buy portable resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "White Resistance Bands",
+    "price": 55,
+    "category": "fitness",
+    "reward_tag": "white resistance",
+    "target": "buy white resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Charcoal Resistance Bands",
+    "price": 57,
+    "category": "fitness",
+    "reward_tag": "charcoal resistance",
+    "target": "buy charcoal resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Green Resistance Bands",
+    "price": 65,
+    "category": "fitness",
+    "reward_tag": "green resistance",
+    "target": "buy green resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Red Resistance Bands",
+    "price": 28,
+    "category": "fitness",
+    "reward_tag": "red resistance",
+    "target": "buy red resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Pink Resistance Bands",
+    "price": 41,
+    "category": "fitness",
+    "reward_tag": "pink resistance",
+    "target": "buy pink resistance bands",
+    "attributes": [
+      "exercise",
+      "portable",
+      "workout"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Burgundy Jump Rope",
+    "price": 42,
+    "category": "fitness",
+    "reward_tag": "burgundy jump",
+    "target": "buy burgundy jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Compact Jump Rope",
+    "price": 68,
+    "category": "fitness",
+    "reward_tag": "compact jump",
+    "target": "buy compact jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Orange Jump Rope",
+    "price": 48,
+    "category": "fitness",
+    "reward_tag": "orange jump",
+    "target": "buy orange jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Lightweight Jump Rope",
+    "price": 35,
+    "category": "fitness",
+    "reward_tag": "lightweight jump",
+    "target": "buy lightweight jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Charcoal Jump Rope",
+    "price": 59,
+    "category": "fitness",
+    "reward_tag": "charcoal jump",
+    "target": "buy charcoal jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Gray Jump Rope",
+    "price": 71,
+    "category": "fitness",
+    "reward_tag": "gray jump",
+    "target": "buy gray jump rope",
+    "attributes": [
+      "cardio",
+      "exercise",
+      "training"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Purple Foam Roller",
+    "price": 49,
+    "category": "fitness",
+    "reward_tag": "purple foam",
+    "target": "buy purple foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Premium Foam Roller",
+    "price": 66,
+    "category": "fitness",
+    "reward_tag": "premium foam",
+    "target": "buy premium foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Black Foam Roller",
+    "price": 14,
+    "category": "fitness",
+    "reward_tag": "black foam",
+    "target": "buy black foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Turquoise Foam Roller",
+    "price": 56,
+    "category": "fitness",
+    "reward_tag": "turquoise foam",
+    "target": "buy turquoise foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Silver Foam Roller",
+    "price": 26,
+    "category": "fitness",
+    "reward_tag": "silver foam",
+    "target": "buy silver foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Portable Foam Roller",
+    "price": 21,
+    "category": "fitness",
+    "reward_tag": "portable foam",
+    "target": "buy portable foam roller",
+    "attributes": [
+      "recovery",
+      "massage",
+      "exercise"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Heavy-Duty Water Bottle",
+    "price": 68,
+    "category": "fitness",
+    "reward_tag": "heavy-duty water",
+    "target": "buy heavy-duty water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Pro Water Bottle",
+    "price": 57,
+    "category": "fitness",
+    "reward_tag": "pro water",
+    "target": "buy pro water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Olive Water Bottle",
+    "price": 43,
+    "category": "fitness",
+    "reward_tag": "olive water",
+    "target": "buy olive water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Deluxe Water Bottle",
+    "price": 58,
+    "category": "fitness",
+    "reward_tag": "deluxe water",
+    "target": "buy deluxe water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Portable Water Bottle",
+    "price": 57,
+    "category": "fitness",
+    "reward_tag": "portable water",
+    "target": "buy portable water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Classic Water Bottle",
+    "price": 23,
+    "category": "fitness",
+    "reward_tag": "classic water",
+    "target": "buy classic water bottle",
+    "attributes": [
+      "hydration",
+      "sports",
+      "insulated"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Pro Yoga Block",
+    "price": 63,
+    "category": "fitness",
+    "reward_tag": "pro yoga",
+    "target": "buy pro yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Classic Yoga Block",
+    "price": 22,
+    "category": "fitness",
+    "reward_tag": "classic yoga",
+    "target": "buy classic yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Gold Yoga Block",
+    "price": 72,
+    "category": "fitness",
+    "reward_tag": "gold yoga",
+    "target": "buy gold yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Yellow Yoga Block",
+    "price": 62,
+    "category": "fitness",
+    "reward_tag": "yellow yoga",
+    "target": "buy yellow yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Teal Yoga Block",
+    "price": 45,
+    "category": "fitness",
+    "reward_tag": "teal yoga",
+    "target": "buy teal yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Orange Yoga Block",
+    "price": 14,
+    "category": "fitness",
+    "reward_tag": "orange yoga",
+    "target": "buy orange yoga block",
+    "attributes": [
+      "support",
+      "exercise",
+      "stretching"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Gray Exercise Ball",
+    "price": 18,
+    "category": "fitness",
+    "reward_tag": "gray exercise",
+    "target": "buy gray exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Gold Exercise Ball",
+    "price": 80,
+    "category": "fitness",
+    "reward_tag": "gold exercise",
+    "target": "buy gold exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Yellow Exercise Ball",
+    "price": 36,
+    "category": "fitness",
+    "reward_tag": "yellow exercise",
+    "target": "buy yellow exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Green Exercise Ball",
+    "price": 37,
+    "category": "fitness",
+    "reward_tag": "green exercise",
+    "target": "buy green exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Deluxe Exercise Ball",
+    "price": 39,
+    "category": "fitness",
+    "reward_tag": "deluxe exercise",
+    "target": "buy deluxe exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Black Exercise Ball",
+    "price": 52,
+    "category": "fitness",
+    "reward_tag": "black exercise",
+    "target": "buy black exercise ball",
+    "attributes": [
+      "core",
+      "stability",
+      "workout"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Burgundy Kettlebell",
+    "price": 15,
+    "category": "fitness",
+    "reward_tag": "burgundy kettlebell",
+    "target": "buy burgundy kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Deluxe Kettlebell",
+    "price": 76,
+    "category": "fitness",
+    "reward_tag": "deluxe kettlebell",
+    "target": "buy deluxe kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Pro Kettlebell",
+    "price": 48,
+    "category": "fitness",
+    "reward_tag": "pro kettlebell",
+    "target": "buy pro kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Teal Kettlebell",
+    "price": 68,
+    "category": "fitness",
+    "reward_tag": "teal kettlebell",
+    "target": "buy teal kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Gold Kettlebell",
+    "price": 13,
+    "category": "fitness",
+    "reward_tag": "gold kettlebell",
+    "target": "buy gold kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Charcoal Kettlebell",
+    "price": 17,
+    "category": "fitness",
+    "reward_tag": "charcoal kettlebell",
+    "target": "buy charcoal kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Vintage Kettlebell",
+    "price": 71,
+    "category": "fitness",
+    "reward_tag": "vintage kettlebell",
+    "target": "buy vintage kettlebell",
+    "attributes": [
+      "strength",
+      "training",
+      "weights"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Eco-Friendly Pull-up Bar",
+    "price": 39,
+    "category": "fitness",
+    "reward_tag": "eco-friendly pull-up",
+    "target": "buy eco-friendly pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Premium Pull-up Bar",
+    "price": 62,
+    "category": "fitness",
+    "reward_tag": "premium pull-up",
+    "target": "buy premium pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Lightweight Pull-up Bar",
+    "price": 53,
+    "category": "fitness",
+    "reward_tag": "lightweight pull-up",
+    "target": "buy lightweight pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Navy Pull-up Bar",
+    "price": 68,
+    "category": "fitness",
+    "reward_tag": "navy pull-up",
+    "target": "buy navy pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Red Pull-up Bar",
+    "price": 61,
+    "category": "fitness",
+    "reward_tag": "red pull-up",
+    "target": "buy red pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "Yellow Pull-up Bar",
+    "price": 63,
+    "category": "fitness",
+    "reward_tag": "yellow pull-up",
+    "target": "buy yellow pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Charcoal Pull-up Bar",
+    "price": 22,
+    "category": "fitness",
+    "reward_tag": "charcoal pull-up",
+    "target": "buy charcoal pull-up bar",
+    "attributes": [
+      "home",
+      "gym",
+      "strength"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "Charcoal Pillow",
+    "price": 60,
+    "category": "home",
+    "reward_tag": "charcoal pillow",
+    "target": "buy charcoal pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "Portable Pillow",
+    "price": 28,
+    "category": "home",
+    "reward_tag": "portable pillow",
+    "target": "buy portable pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 251,
+    "title": "Olive Pillow",
+    "price": 88,
+    "category": "home",
+    "reward_tag": "olive pillow",
+    "target": "buy olive pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Red Pillow",
+    "price": 79,
+    "category": "home",
+    "reward_tag": "red pillow",
+    "target": "buy red pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "Gold Pillow",
+    "price": 42,
+    "category": "home",
+    "reward_tag": "gold pillow",
+    "target": "buy gold pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "Purple Pillow",
+    "price": 34,
+    "category": "home",
+    "reward_tag": "purple pillow",
+    "target": "buy purple pillow",
+    "attributes": [
+      "comfortable",
+      "soft",
+      "bedroom"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "Gray Blanket",
+    "price": 109,
+    "category": "home",
+    "reward_tag": "gray blanket",
+    "target": "buy gray blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "Classic Blanket",
+    "price": 96,
+    "category": "home",
+    "reward_tag": "classic blanket",
+    "target": "buy classic blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "Charcoal Blanket",
+    "price": 18,
+    "category": "home",
+    "reward_tag": "charcoal blanket",
+    "target": "buy charcoal blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Deluxe Blanket",
+    "price": 26,
+    "category": "home",
+    "reward_tag": "deluxe blanket",
+    "target": "buy deluxe blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "Teal Blanket",
+    "price": 110,
+    "category": "home",
+    "reward_tag": "teal blanket",
+    "target": "buy teal blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Blue Blanket",
+    "price": 82,
+    "category": "home",
+    "reward_tag": "blue blanket",
+    "target": "buy blue blanket",
+    "attributes": [
+      "warm",
+      "cozy",
+      "throw"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "White Lamp",
+    "price": 29,
+    "category": "home",
+    "reward_tag": "white lamp",
+    "target": "buy white lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "Pink Lamp",
+    "price": 51,
+    "category": "home",
+    "reward_tag": "pink lamp",
+    "target": "buy pink lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Silver Lamp",
+    "price": 101,
+    "category": "home",
+    "reward_tag": "silver lamp",
+    "target": "buy silver lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "Red Lamp",
+    "price": 101,
+    "category": "home",
+    "reward_tag": "red lamp",
+    "target": "buy red lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 265,
+    "title": "Lightweight Lamp",
+    "price": 90,
+    "category": "home",
+    "reward_tag": "lightweight lamp",
+    "target": "buy lightweight lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "Charcoal Lamp",
+    "price": 77,
+    "category": "home",
+    "reward_tag": "charcoal lamp",
+    "target": "buy charcoal lamp",
+    "attributes": [
+      "desk",
+      "LED",
+      "lighting"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Charcoal Picture Frame",
+    "price": 24,
+    "category": "home",
+    "reward_tag": "charcoal picture",
+    "target": "buy charcoal picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Ultra Picture Frame",
+    "price": 55,
+    "category": "home",
+    "reward_tag": "ultra picture",
+    "target": "buy ultra picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Modern Picture Frame",
+    "price": 88,
+    "category": "home",
+    "reward_tag": "modern picture",
+    "target": "buy modern picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "Heavy-Duty Picture Frame",
+    "price": 69,
+    "category": "home",
+    "reward_tag": "heavy-duty picture",
+    "target": "buy heavy-duty picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "Lightweight Picture Frame",
+    "price": 88,
+    "category": "home",
+    "reward_tag": "lightweight picture",
+    "target": "buy lightweight picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "Eco-Friendly Picture Frame",
+    "price": 66,
+    "category": "home",
+    "reward_tag": "eco-friendly picture",
+    "target": "buy eco-friendly picture frame",
+    "attributes": [
+      "photo",
+      "decorative",
+      "wall"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "Vintage Candle",
+    "price": 108,
+    "category": "home",
+    "reward_tag": "vintage candle",
+    "target": "buy vintage candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "Silver Candle",
+    "price": 119,
+    "category": "home",
+    "reward_tag": "silver candle",
+    "target": "buy silver candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Gray Candle",
+    "price": 97,
+    "category": "home",
+    "reward_tag": "gray candle",
+    "target": "buy gray candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 276,
+    "title": "Charcoal Candle",
+    "price": 119,
+    "category": "home",
+    "reward_tag": "charcoal candle",
+    "target": "buy charcoal candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 277,
+    "title": "Beige Candle",
+    "price": 33,
+    "category": "home",
+    "reward_tag": "beige candle",
+    "target": "buy beige candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "Classic Candle",
+    "price": 45,
+    "category": "home",
+    "reward_tag": "classic candle",
+    "target": "buy classic candle",
+    "attributes": [
+      "scented",
+      "aromatherapy",
+      "decorative"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "Classic Vase",
+    "price": 19,
+    "category": "home",
+    "reward_tag": "classic vase",
+    "target": "buy classic vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "White Vase",
+    "price": 22,
+    "category": "home",
+    "reward_tag": "white vase",
+    "target": "buy white vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 281,
+    "title": "Teal Vase",
+    "price": 62,
+    "category": "home",
+    "reward_tag": "teal vase",
+    "target": "buy teal vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 282,
+    "title": "Lightweight Vase",
+    "price": 51,
+    "category": "home",
+    "reward_tag": "lightweight vase",
+    "target": "buy lightweight vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "Ultra Vase",
+    "price": 24,
+    "category": "home",
+    "reward_tag": "ultra vase",
+    "target": "buy ultra vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Heavy-Duty Vase",
+    "price": 97,
+    "category": "home",
+    "reward_tag": "heavy-duty vase",
+    "target": "buy heavy-duty vase",
+    "attributes": [
+      "decorative",
+      "ceramic",
+      "glass"
+    ]
+  },
+  {
+    "id": 285,
+    "title": "Classic Clock",
+    "price": 61,
+    "category": "home",
+    "reward_tag": "classic clock",
+    "target": "buy classic clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "Compact Clock",
+    "price": 62,
+    "category": "home",
+    "reward_tag": "compact clock",
+    "target": "buy compact clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Gray Clock",
+    "price": 51,
+    "category": "home",
+    "reward_tag": "gray clock",
+    "target": "buy gray clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 288,
+    "title": "Eco-Friendly Clock",
+    "price": 64,
+    "category": "home",
+    "reward_tag": "eco-friendly clock",
+    "target": "buy eco-friendly clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "White Clock",
+    "price": 67,
+    "category": "home",
+    "reward_tag": "white clock",
+    "target": "buy white clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Navy Clock",
+    "price": 114,
+    "category": "home",
+    "reward_tag": "navy clock",
+    "target": "buy navy clock",
+    "attributes": [
+      "wall",
+      "alarm",
+      "digital"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "Purple Rug",
+    "price": 97,
+    "category": "home",
+    "reward_tag": "purple rug",
+    "target": "buy purple rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Burgundy Rug",
+    "price": 100,
+    "category": "home",
+    "reward_tag": "burgundy rug",
+    "target": "buy burgundy rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 293,
+    "title": "Red Rug",
+    "price": 69,
+    "category": "home",
+    "reward_tag": "red rug",
+    "target": "buy red rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 294,
+    "title": "Eco-Friendly Rug",
+    "price": 80,
+    "category": "home",
+    "reward_tag": "eco-friendly rug",
+    "target": "buy eco-friendly rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "Deluxe Rug",
+    "price": 61,
+    "category": "home",
+    "reward_tag": "deluxe rug",
+    "target": "buy deluxe rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 296,
+    "title": "Modern Rug",
+    "price": 17,
+    "category": "home",
+    "reward_tag": "modern rug",
+    "target": "buy modern rug",
+    "attributes": [
+      "floor",
+      "decorative",
+      "area"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "Red Curtains",
+    "price": 20,
+    "category": "home",
+    "reward_tag": "red curtains",
+    "target": "buy red curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "Compact Curtains",
+    "price": 67,
+    "category": "home",
+    "reward_tag": "compact curtains",
+    "target": "buy compact curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 299,
+    "title": "Ultra Curtains",
+    "price": 61,
+    "category": "home",
+    "reward_tag": "ultra curtains",
+    "target": "buy ultra curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "Burgundy Curtains",
+    "price": 101,
+    "category": "home",
+    "reward_tag": "burgundy curtains",
+    "target": "buy burgundy curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "Modern Curtains",
+    "price": 107,
+    "category": "home",
+    "reward_tag": "modern curtains",
+    "target": "buy modern curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Pink Curtains",
+    "price": 45,
+    "category": "home",
+    "reward_tag": "pink curtains",
+    "target": "buy pink curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Pro Curtains",
+    "price": 71,
+    "category": "home",
+    "reward_tag": "pro curtains",
+    "target": "buy pro curtains",
+    "attributes": [
+      "window",
+      "blackout",
+      "decorative"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Blue Storage Box",
+    "price": 51,
+    "category": "home",
+    "reward_tag": "blue storage",
+    "target": "buy blue storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Charcoal Storage Box",
+    "price": 25,
+    "category": "home",
+    "reward_tag": "charcoal storage",
+    "target": "buy charcoal storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Yellow Storage Box",
+    "price": 112,
+    "category": "home",
+    "reward_tag": "yellow storage",
+    "target": "buy yellow storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Pink Storage Box",
+    "price": 35,
+    "category": "home",
+    "reward_tag": "pink storage",
+    "target": "buy pink storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Modern Storage Box",
+    "price": 49,
+    "category": "home",
+    "reward_tag": "modern storage",
+    "target": "buy modern storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Brown Storage Box",
+    "price": 72,
+    "category": "home",
+    "reward_tag": "brown storage",
+    "target": "buy brown storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Vintage Storage Box",
+    "price": 80,
+    "category": "home",
+    "reward_tag": "vintage storage",
+    "target": "buy vintage storage box",
+    "attributes": [
+      "organizer",
+      "container",
+      "home"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "Orange Coffee Mug",
+    "price": 67,
+    "category": "kitchen",
+    "reward_tag": "orange coffee",
+    "target": "buy orange coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Green Coffee Mug",
+    "price": 88,
+    "category": "kitchen",
+    "reward_tag": "green coffee",
+    "target": "buy green coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 313,
+    "title": "Portable Coffee Mug",
+    "price": 10,
+    "category": "kitchen",
+    "reward_tag": "portable coffee",
+    "target": "buy portable coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 314,
+    "title": "Beige Coffee Mug",
+    "price": 20,
+    "category": "kitchen",
+    "reward_tag": "beige coffee",
+    "target": "buy beige coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 315,
+    "title": "Compact Coffee Mug",
+    "price": 12,
+    "category": "kitchen",
+    "reward_tag": "compact coffee",
+    "target": "buy compact coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Gold Coffee Mug",
+    "price": 42,
+    "category": "kitchen",
+    "reward_tag": "gold coffee",
+    "target": "buy gold coffee mug",
+    "attributes": [
+      "ceramic",
+      "insulated",
+      "drinking"
+    ]
+  },
+  {
+    "id": 317,
+    "title": "Green Water Bottle",
+    "price": 40,
+    "category": "kitchen",
+    "reward_tag": "green water",
+    "target": "buy green water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Orange Water Bottle",
+    "price": 83,
+    "category": "kitchen",
+    "reward_tag": "orange water",
+    "target": "buy orange water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 319,
+    "title": "Navy Water Bottle",
+    "price": 63,
+    "category": "kitchen",
+    "reward_tag": "navy water",
+    "target": "buy navy water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 320,
+    "title": "Teal Water Bottle",
+    "price": 33,
+    "category": "kitchen",
+    "reward_tag": "teal water",
+    "target": "buy teal water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Beige Water Bottle",
+    "price": 20,
+    "category": "kitchen",
+    "reward_tag": "beige water",
+    "target": "buy beige water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "Ultra Water Bottle",
+    "price": 77,
+    "category": "kitchen",
+    "reward_tag": "ultra water",
+    "target": "buy ultra water bottle",
+    "attributes": [
+      "reusable",
+      "stainless",
+      "hydration"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "Gray Cutting Board",
+    "price": 69,
+    "category": "kitchen",
+    "reward_tag": "gray cutting",
+    "target": "buy gray cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Orange Cutting Board",
+    "price": 71,
+    "category": "kitchen",
+    "reward_tag": "orange cutting",
+    "target": "buy orange cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Classic Cutting Board",
+    "price": 90,
+    "category": "kitchen",
+    "reward_tag": "classic cutting",
+    "target": "buy classic cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 326,
+    "title": "Deluxe Cutting Board",
+    "price": 33,
+    "category": "kitchen",
+    "reward_tag": "deluxe cutting",
+    "target": "buy deluxe cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Compact Cutting Board",
+    "price": 27,
+    "category": "kitchen",
+    "reward_tag": "compact cutting",
+    "target": "buy compact cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Purple Cutting Board",
+    "price": 18,
+    "category": "kitchen",
+    "reward_tag": "purple cutting",
+    "target": "buy purple cutting board",
+    "attributes": [
+      "wood",
+      "kitchen",
+      "prep"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Navy Knife Set",
+    "price": 59,
+    "category": "kitchen",
+    "reward_tag": "navy knife",
+    "target": "buy navy knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Purple Knife Set",
+    "price": 53,
+    "category": "kitchen",
+    "reward_tag": "purple knife",
+    "target": "buy purple knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Turquoise Knife Set",
+    "price": 33,
+    "category": "kitchen",
+    "reward_tag": "turquoise knife",
+    "target": "buy turquoise knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Gold Knife Set",
+    "price": 73,
+    "category": "kitchen",
+    "reward_tag": "gold knife",
+    "target": "buy gold knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "White Knife Set",
+    "price": 73,
+    "category": "kitchen",
+    "reward_tag": "white knife",
+    "target": "buy white knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Compact Knife Set",
+    "price": 57,
+    "category": "kitchen",
+    "reward_tag": "compact knife",
+    "target": "buy compact knife set",
+    "attributes": [
+      "kitchen",
+      "cooking",
+      "chef"
+    ]
+  },
+  {
+    "id": 335,
+    "title": "Classic Mixing Bowl",
+    "price": 56,
+    "category": "kitchen",
+    "reward_tag": "classic mixing",
+    "target": "buy classic mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 336,
+    "title": "Blue Mixing Bowl",
+    "price": 75,
+    "category": "kitchen",
+    "reward_tag": "blue mixing",
+    "target": "buy blue mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "Pro Mixing Bowl",
+    "price": 30,
+    "category": "kitchen",
+    "reward_tag": "pro mixing",
+    "target": "buy pro mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 338,
+    "title": "Green Mixing Bowl",
+    "price": 13,
+    "category": "kitchen",
+    "reward_tag": "green mixing",
+    "target": "buy green mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "Deluxe Mixing Bowl",
+    "price": 28,
+    "category": "kitchen",
+    "reward_tag": "deluxe mixing",
+    "target": "buy deluxe mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 340,
+    "title": "Pink Mixing Bowl",
+    "price": 87,
+    "category": "kitchen",
+    "reward_tag": "pink mixing",
+    "target": "buy pink mixing bowl",
+    "attributes": [
+      "stainless",
+      "cooking",
+      "prep"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Pro Frying Pan",
+    "price": 73,
+    "category": "kitchen",
+    "reward_tag": "pro frying",
+    "target": "buy pro frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Brown Frying Pan",
+    "price": 76,
+    "category": "kitchen",
+    "reward_tag": "brown frying",
+    "target": "buy brown frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "White Frying Pan",
+    "price": 59,
+    "category": "kitchen",
+    "reward_tag": "white frying",
+    "target": "buy white frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Red Frying Pan",
+    "price": 81,
+    "category": "kitchen",
+    "reward_tag": "red frying",
+    "target": "buy red frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "Burgundy Frying Pan",
+    "price": 25,
+    "category": "kitchen",
+    "reward_tag": "burgundy frying",
+    "target": "buy burgundy frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 346,
+    "title": "Charcoal Frying Pan",
+    "price": 43,
+    "category": "kitchen",
+    "reward_tag": "charcoal frying",
+    "target": "buy charcoal frying pan",
+    "attributes": [
+      "non-stick",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Compact Spatula",
+    "price": 56,
+    "category": "kitchen",
+    "reward_tag": "compact spatula",
+    "target": "buy compact spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 348,
+    "title": "Basic Spatula",
+    "price": 80,
+    "category": "kitchen",
+    "reward_tag": "basic spatula",
+    "target": "buy basic spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "Purple Spatula",
+    "price": 83,
+    "category": "kitchen",
+    "reward_tag": "purple spatula",
+    "target": "buy purple spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "Portable Spatula",
+    "price": 57,
+    "category": "kitchen",
+    "reward_tag": "portable spatula",
+    "target": "buy portable spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 351,
+    "title": "Burgundy Spatula",
+    "price": 69,
+    "category": "kitchen",
+    "reward_tag": "burgundy spatula",
+    "target": "buy burgundy spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Blue Spatula",
+    "price": 80,
+    "category": "kitchen",
+    "reward_tag": "blue spatula",
+    "target": "buy blue spatula",
+    "attributes": [
+      "silicone",
+      "cooking",
+      "utensil"
+    ]
+  },
+  {
+    "id": 353,
+    "title": "Blue Measuring Cups",
+    "price": 48,
+    "category": "kitchen",
+    "reward_tag": "blue measuring",
+    "target": "buy blue measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Orange Measuring Cups",
+    "price": 31,
+    "category": "kitchen",
+    "reward_tag": "orange measuring",
+    "target": "buy orange measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "Purple Measuring Cups",
+    "price": 30,
+    "category": "kitchen",
+    "reward_tag": "purple measuring",
+    "target": "buy purple measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 356,
+    "title": "Eco-Friendly Measuring Cups",
+    "price": 51,
+    "category": "kitchen",
+    "reward_tag": "eco-friendly measuring",
+    "target": "buy eco-friendly measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Red Measuring Cups",
+    "price": 38,
+    "category": "kitchen",
+    "reward_tag": "red measuring",
+    "target": "buy red measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 358,
+    "title": "Turquoise Measuring Cups",
+    "price": 54,
+    "category": "kitchen",
+    "reward_tag": "turquoise measuring",
+    "target": "buy turquoise measuring cups",
+    "attributes": [
+      "baking",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Modern Blender",
+    "price": 48,
+    "category": "kitchen",
+    "reward_tag": "modern blender",
+    "target": "buy modern blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 360,
+    "title": "Deluxe Blender",
+    "price": 71,
+    "category": "kitchen",
+    "reward_tag": "deluxe blender",
+    "target": "buy deluxe blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 361,
+    "title": "Beige Blender",
+    "price": 41,
+    "category": "kitchen",
+    "reward_tag": "beige blender",
+    "target": "buy beige blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 362,
+    "title": "Olive Blender",
+    "price": 61,
+    "category": "kitchen",
+    "reward_tag": "olive blender",
+    "target": "buy olive blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "Purple Blender",
+    "price": 48,
+    "category": "kitchen",
+    "reward_tag": "purple blender",
+    "target": "buy purple blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 364,
+    "title": "Pro Blender",
+    "price": 68,
+    "category": "kitchen",
+    "reward_tag": "pro blender",
+    "target": "buy pro blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Lightweight Blender",
+    "price": 19,
+    "category": "kitchen",
+    "reward_tag": "lightweight blender",
+    "target": "buy lightweight blender",
+    "attributes": [
+      "smoothie",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 366,
+    "title": "Ultra Toaster",
+    "price": 41,
+    "category": "kitchen",
+    "reward_tag": "ultra toaster",
+    "target": "buy ultra toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Silver Toaster",
+    "price": 30,
+    "category": "kitchen",
+    "reward_tag": "silver toaster",
+    "target": "buy silver toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "Classic Toaster",
+    "price": 51,
+    "category": "kitchen",
+    "reward_tag": "classic toaster",
+    "target": "buy classic toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 369,
+    "title": "Pink Toaster",
+    "price": 83,
+    "category": "kitchen",
+    "reward_tag": "pink toaster",
+    "target": "buy pink toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 370,
+    "title": "Gray Toaster",
+    "price": 50,
+    "category": "kitchen",
+    "reward_tag": "gray toaster",
+    "target": "buy gray toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 371,
+    "title": "Pro Toaster",
+    "price": 34,
+    "category": "kitchen",
+    "reward_tag": "pro toaster",
+    "target": "buy pro toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "Red Toaster",
+    "price": 30,
+    "category": "kitchen",
+    "reward_tag": "red toaster",
+    "target": "buy red toaster",
+    "attributes": [
+      "breakfast",
+      "kitchen",
+      "appliance"
+    ]
+  },
+  {
+    "id": 373,
+    "title": "Yellow Backpack",
+    "price": 61,
+    "category": "accessories",
+    "reward_tag": "yellow backpack",
+    "target": "buy yellow backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 374,
+    "title": "Basic Backpack",
+    "price": 56,
+    "category": "accessories",
+    "reward_tag": "basic backpack",
+    "target": "buy basic backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 375,
+    "title": "Burgundy Backpack",
+    "price": 15,
+    "category": "accessories",
+    "reward_tag": "burgundy backpack",
+    "target": "buy burgundy backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 376,
+    "title": "Vintage Backpack",
+    "price": 61,
+    "category": "accessories",
+    "reward_tag": "vintage backpack",
+    "target": "buy vintage backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 377,
+    "title": "White Backpack",
+    "price": 16,
+    "category": "accessories",
+    "reward_tag": "white backpack",
+    "target": "buy white backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Turquoise Backpack",
+    "price": 34,
+    "category": "accessories",
+    "reward_tag": "turquoise backpack",
+    "target": "buy turquoise backpack",
+    "attributes": [
+      "travel",
+      "school",
+      "storage"
+    ]
+  },
+  {
+    "id": 379,
+    "title": "Eco-Friendly Wallet",
+    "price": 70,
+    "category": "accessories",
+    "reward_tag": "eco-friendly wallet",
+    "target": "buy eco-friendly wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 380,
+    "title": "Blue Wallet",
+    "price": 76,
+    "category": "accessories",
+    "reward_tag": "blue wallet",
+    "target": "buy blue wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 381,
+    "title": "Beige Wallet",
+    "price": 68,
+    "category": "accessories",
+    "reward_tag": "beige wallet",
+    "target": "buy beige wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 382,
+    "title": "Purple Wallet",
+    "price": 29,
+    "category": "accessories",
+    "reward_tag": "purple wallet",
+    "target": "buy purple wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "Burgundy Wallet",
+    "price": 75,
+    "category": "accessories",
+    "reward_tag": "burgundy wallet",
+    "target": "buy burgundy wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "Red Wallet",
+    "price": 27,
+    "category": "accessories",
+    "reward_tag": "red wallet",
+    "target": "buy red wallet",
+    "attributes": [
+      "leather",
+      "card",
+      "holder"
+    ]
+  },
+  {
+    "id": 385,
+    "title": "Burgundy Sunglasses",
+    "price": 71,
+    "category": "accessories",
+    "reward_tag": "burgundy sunglasses",
+    "target": "buy burgundy sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "Purple Sunglasses",
+    "price": 31,
+    "category": "accessories",
+    "reward_tag": "purple sunglasses",
+    "target": "buy purple sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 387,
+    "title": "Lightweight Sunglasses",
+    "price": 77,
+    "category": "accessories",
+    "reward_tag": "lightweight sunglasses",
+    "target": "buy lightweight sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Navy Sunglasses",
+    "price": 58,
+    "category": "accessories",
+    "reward_tag": "navy sunglasses",
+    "target": "buy navy sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "Black Sunglasses",
+    "price": 28,
+    "category": "accessories",
+    "reward_tag": "black sunglasses",
+    "target": "buy black sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "White Sunglasses",
+    "price": 41,
+    "category": "accessories",
+    "reward_tag": "white sunglasses",
+    "target": "buy white sunglasses",
+    "attributes": [
+      "UV",
+      "protection",
+      "fashion"
+    ]
+  },
+  {
+    "id": 391,
+    "title": "Lightweight Watch",
+    "price": 71,
+    "category": "accessories",
+    "reward_tag": "lightweight watch",
+    "target": "buy lightweight watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "Silver Watch",
+    "price": 34,
+    "category": "accessories",
+    "reward_tag": "silver watch",
+    "target": "buy silver watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "Gray Watch",
+    "price": 41,
+    "category": "accessories",
+    "reward_tag": "gray watch",
+    "target": "buy gray watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "Teal Watch",
+    "price": 45,
+    "category": "accessories",
+    "reward_tag": "teal watch",
+    "target": "buy teal watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "Navy Watch",
+    "price": 48,
+    "category": "accessories",
+    "reward_tag": "navy watch",
+    "target": "buy navy watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 396,
+    "title": "Premium Watch",
+    "price": 38,
+    "category": "accessories",
+    "reward_tag": "premium watch",
+    "target": "buy premium watch",
+    "attributes": [
+      "analog",
+      "digital",
+      "timepiece"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "Purple Belt",
+    "price": 78,
+    "category": "accessories",
+    "reward_tag": "purple belt",
+    "target": "buy purple belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "Classic Belt",
+    "price": 44,
+    "category": "accessories",
+    "reward_tag": "classic belt",
+    "target": "buy classic belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "Premium Belt",
+    "price": 44,
+    "category": "accessories",
+    "reward_tag": "premium belt",
+    "target": "buy premium belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "Olive Belt",
+    "price": 27,
+    "category": "accessories",
+    "reward_tag": "olive belt",
+    "target": "buy olive belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 401,
+    "title": "Lightweight Belt",
+    "price": 23,
+    "category": "accessories",
+    "reward_tag": "lightweight belt",
+    "target": "buy lightweight belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 402,
+    "title": "Portable Belt",
+    "price": 40,
+    "category": "accessories",
+    "reward_tag": "portable belt",
+    "target": "buy portable belt",
+    "attributes": [
+      "leather",
+      "fashion",
+      "accessory"
+    ]
+  },
+  {
+    "id": 403,
+    "title": "Navy Hat",
+    "price": 32,
+    "category": "accessories",
+    "reward_tag": "navy hat",
+    "target": "buy navy hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 404,
+    "title": "Teal Hat",
+    "price": 63,
+    "category": "accessories",
+    "reward_tag": "teal hat",
+    "target": "buy teal hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "Black Hat",
+    "price": 32,
+    "category": "accessories",
+    "reward_tag": "black hat",
+    "target": "buy black hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "Deluxe Hat",
+    "price": 14,
+    "category": "accessories",
+    "reward_tag": "deluxe hat",
+    "target": "buy deluxe hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "Orange Hat",
+    "price": 60,
+    "category": "accessories",
+    "reward_tag": "orange hat",
+    "target": "buy orange hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 408,
+    "title": "Silver Hat",
+    "price": 73,
+    "category": "accessories",
+    "reward_tag": "silver hat",
+    "target": "buy silver hat",
+    "attributes": [
+      "cap",
+      "fashion",
+      "sun"
+    ]
+  },
+  {
+    "id": 409,
+    "title": "Burgundy Scarf",
+    "price": 32,
+    "category": "accessories",
+    "reward_tag": "burgundy scarf",
+    "target": "buy burgundy scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 410,
+    "title": "Pink Scarf",
+    "price": 61,
+    "category": "accessories",
+    "reward_tag": "pink scarf",
+    "target": "buy pink scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 411,
+    "title": "Orange Scarf",
+    "price": 64,
+    "category": "accessories",
+    "reward_tag": "orange scarf",
+    "target": "buy orange scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 412,
+    "title": "Modern Scarf",
+    "price": 75,
+    "category": "accessories",
+    "reward_tag": "modern scarf",
+    "target": "buy modern scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 413,
+    "title": "Heavy-Duty Scarf",
+    "price": 51,
+    "category": "accessories",
+    "reward_tag": "heavy-duty scarf",
+    "target": "buy heavy-duty scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 414,
+    "title": "Portable Scarf",
+    "price": 21,
+    "category": "accessories",
+    "reward_tag": "portable scarf",
+    "target": "buy portable scarf",
+    "attributes": [
+      "warm",
+      "winter",
+      "fashion"
+    ]
+  },
+  {
+    "id": 415,
+    "title": "Classic Gloves",
+    "price": 47,
+    "category": "accessories",
+    "reward_tag": "classic gloves",
+    "target": "buy classic gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 416,
+    "title": "Vintage Gloves",
+    "price": 57,
+    "category": "accessories",
+    "reward_tag": "vintage gloves",
+    "target": "buy vintage gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 417,
+    "title": "Compact Gloves",
+    "price": 38,
+    "category": "accessories",
+    "reward_tag": "compact gloves",
+    "target": "buy compact gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 418,
+    "title": "Gold Gloves",
+    "price": 38,
+    "category": "accessories",
+    "reward_tag": "gold gloves",
+    "target": "buy gold gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 419,
+    "title": "Charcoal Gloves",
+    "price": 27,
+    "category": "accessories",
+    "reward_tag": "charcoal gloves",
+    "target": "buy charcoal gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 420,
+    "title": "Heavy-Duty Gloves",
+    "price": 71,
+    "category": "accessories",
+    "reward_tag": "heavy-duty gloves",
+    "target": "buy heavy-duty gloves",
+    "attributes": [
+      "winter",
+      "warm",
+      "hand"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "Pro Umbrella",
+    "price": 72,
+    "category": "accessories",
+    "reward_tag": "pro umbrella",
+    "target": "buy pro umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 422,
+    "title": "Yellow Umbrella",
+    "price": 21,
+    "category": "accessories",
+    "reward_tag": "yellow umbrella",
+    "target": "buy yellow umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "Deluxe Umbrella",
+    "price": 75,
+    "category": "accessories",
+    "reward_tag": "deluxe umbrella",
+    "target": "buy deluxe umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 424,
+    "title": "Ultra Umbrella",
+    "price": 67,
+    "category": "accessories",
+    "reward_tag": "ultra umbrella",
+    "target": "buy ultra umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 425,
+    "title": "Green Umbrella",
+    "price": 17,
+    "category": "accessories",
+    "reward_tag": "green umbrella",
+    "target": "buy green umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 426,
+    "title": "Premium Umbrella",
+    "price": 68,
+    "category": "accessories",
+    "reward_tag": "premium umbrella",
+    "target": "buy premium umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 427,
+    "title": "Teal Umbrella",
+    "price": 26,
+    "category": "accessories",
+    "reward_tag": "teal umbrella",
+    "target": "buy teal umbrella",
+    "attributes": [
+      "rain",
+      "portable",
+      "weather"
+    ]
+  },
+  {
+    "id": 428,
+    "title": "Beige Keychain",
+    "price": 57,
+    "category": "accessories",
+    "reward_tag": "beige keychain",
+    "target": "buy beige keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 429,
+    "title": "Compact Keychain",
+    "price": 58,
+    "category": "accessories",
+    "reward_tag": "compact keychain",
+    "target": "buy compact keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 430,
+    "title": "Lightweight Keychain",
+    "price": 67,
+    "category": "accessories",
+    "reward_tag": "lightweight keychain",
+    "target": "buy lightweight keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 431,
+    "title": "Green Keychain",
+    "price": 58,
+    "category": "accessories",
+    "reward_tag": "green keychain",
+    "target": "buy green keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 432,
+    "title": "Deluxe Keychain",
+    "price": 58,
+    "category": "accessories",
+    "reward_tag": "deluxe keychain",
+    "target": "buy deluxe keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "White Keychain",
+    "price": 20,
+    "category": "accessories",
+    "reward_tag": "white keychain",
+    "target": "buy white keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 434,
+    "title": "Ultra Keychain",
+    "price": 79,
+    "category": "accessories",
+    "reward_tag": "ultra keychain",
+    "target": "buy ultra keychain",
+    "attributes": [
+      "decorative",
+      "practical",
+      "accessory"
+    ]
+  },
+  {
+    "id": 435,
+    "title": "Portable Novel",
+    "price": 12,
+    "category": "books",
+    "reward_tag": "portable novel",
+    "target": "buy portable novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "Navy Novel",
+    "price": 13,
+    "category": "books",
+    "reward_tag": "navy novel",
+    "target": "buy navy novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "Brown Novel",
+    "price": 29,
+    "category": "books",
+    "reward_tag": "brown novel",
+    "target": "buy brown novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 438,
+    "title": "Gold Novel",
+    "price": 11,
+    "category": "books",
+    "reward_tag": "gold novel",
+    "target": "buy gold novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 439,
+    "title": "Premium Novel",
+    "price": 24,
+    "category": "books",
+    "reward_tag": "premium novel",
+    "target": "buy premium novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 440,
+    "title": "Pro Novel",
+    "price": 29,
+    "category": "books",
+    "reward_tag": "pro novel",
+    "target": "buy pro novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 441,
+    "title": "Orange Novel",
+    "price": 31,
+    "category": "books",
+    "reward_tag": "orange novel",
+    "target": "buy orange novel",
+    "attributes": [
+      "fiction",
+      "reading",
+      "paperback"
+    ]
+  },
+  {
+    "id": 442,
+    "title": "Premium Cookbook",
+    "price": 27,
+    "category": "books",
+    "reward_tag": "premium cookbook",
+    "target": "buy premium cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 443,
+    "title": "Eco-Friendly Cookbook",
+    "price": 25,
+    "category": "books",
+    "reward_tag": "eco-friendly cookbook",
+    "target": "buy eco-friendly cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 444,
+    "title": "Burgundy Cookbook",
+    "price": 11,
+    "category": "books",
+    "reward_tag": "burgundy cookbook",
+    "target": "buy burgundy cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "Heavy-Duty Cookbook",
+    "price": 21,
+    "category": "books",
+    "reward_tag": "heavy-duty cookbook",
+    "target": "buy heavy-duty cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 446,
+    "title": "Yellow Cookbook",
+    "price": 40,
+    "category": "books",
+    "reward_tag": "yellow cookbook",
+    "target": "buy yellow cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 447,
+    "title": "Compact Cookbook",
+    "price": 30,
+    "category": "books",
+    "reward_tag": "compact cookbook",
+    "target": "buy compact cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 448,
+    "title": "Red Cookbook",
+    "price": 31,
+    "category": "books",
+    "reward_tag": "red cookbook",
+    "target": "buy red cookbook",
+    "attributes": [
+      "recipes",
+      "cooking",
+      "kitchen"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "Brown Journal",
+    "price": 27,
+    "category": "books",
+    "reward_tag": "brown journal",
+    "target": "buy brown journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 450,
+    "title": "Basic Journal",
+    "price": 33,
+    "category": "books",
+    "reward_tag": "basic journal",
+    "target": "buy basic journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 451,
+    "title": "Charcoal Journal",
+    "price": 36,
+    "category": "books",
+    "reward_tag": "charcoal journal",
+    "target": "buy charcoal journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "Compact Journal",
+    "price": 16,
+    "category": "books",
+    "reward_tag": "compact journal",
+    "target": "buy compact journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 453,
+    "title": "Red Journal",
+    "price": 11,
+    "category": "books",
+    "reward_tag": "red journal",
+    "target": "buy red journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 454,
+    "title": "Portable Journal",
+    "price": 18,
+    "category": "books",
+    "reward_tag": "portable journal",
+    "target": "buy portable journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "Navy Journal",
+    "price": 22,
+    "category": "books",
+    "reward_tag": "navy journal",
+    "target": "buy navy journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "Turquoise Journal",
+    "price": 31,
+    "category": "books",
+    "reward_tag": "turquoise journal",
+    "target": "buy turquoise journal",
+    "attributes": [
+      "notebook",
+      "writing",
+      "diary"
+    ]
+  },
+  {
+    "id": 457,
+    "title": "Ultra Planner",
+    "price": 19,
+    "category": "books",
+    "reward_tag": "ultra planner",
+    "target": "buy ultra planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 458,
+    "title": "Pink Planner",
+    "price": 18,
+    "category": "books",
+    "reward_tag": "pink planner",
+    "target": "buy pink planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 459,
+    "title": "Blue Planner",
+    "price": 21,
+    "category": "books",
+    "reward_tag": "blue planner",
+    "target": "buy blue planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 460,
+    "title": "Burgundy Planner",
+    "price": 26,
+    "category": "books",
+    "reward_tag": "burgundy planner",
+    "target": "buy burgundy planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 461,
+    "title": "Yellow Planner",
+    "price": 38,
+    "category": "books",
+    "reward_tag": "yellow planner",
+    "target": "buy yellow planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 462,
+    "title": "Portable Planner",
+    "price": 25,
+    "category": "books",
+    "reward_tag": "portable planner",
+    "target": "buy portable planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 463,
+    "title": "Compact Planner",
+    "price": 24,
+    "category": "books",
+    "reward_tag": "compact planner",
+    "target": "buy compact planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 464,
+    "title": "Premium Planner",
+    "price": 13,
+    "category": "books",
+    "reward_tag": "premium planner",
+    "target": "buy premium planner",
+    "attributes": [
+      "organizer",
+      "calendar",
+      "productivity"
+    ]
+  },
+  {
+    "id": 465,
+    "title": "Eco-Friendly Coloring Book",
+    "price": 15,
+    "category": "books",
+    "reward_tag": "eco-friendly coloring",
+    "target": "buy eco-friendly coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 466,
+    "title": "Basic Coloring Book",
+    "price": 14,
+    "category": "books",
+    "reward_tag": "basic coloring",
+    "target": "buy basic coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 467,
+    "title": "Classic Coloring Book",
+    "price": 33,
+    "category": "books",
+    "reward_tag": "classic coloring",
+    "target": "buy classic coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 468,
+    "title": "Beige Coloring Book",
+    "price": 27,
+    "category": "books",
+    "reward_tag": "beige coloring",
+    "target": "buy beige coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 469,
+    "title": "Compact Coloring Book",
+    "price": 25,
+    "category": "books",
+    "reward_tag": "compact coloring",
+    "target": "buy compact coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 470,
+    "title": "Ultra Coloring Book",
+    "price": 15,
+    "category": "books",
+    "reward_tag": "ultra coloring",
+    "target": "buy ultra coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 471,
+    "title": "Black Coloring Book",
+    "price": 39,
+    "category": "books",
+    "reward_tag": "black coloring",
+    "target": "buy black coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 472,
+    "title": "Turquoise Coloring Book",
+    "price": 38,
+    "category": "books",
+    "reward_tag": "turquoise coloring",
+    "target": "buy turquoise coloring book",
+    "attributes": [
+      "adult",
+      "relaxation",
+      "art"
+    ]
+  },
+  {
+    "id": 473,
+    "title": "Basic Travel Guide",
+    "price": 26,
+    "category": "books",
+    "reward_tag": "basic travel",
+    "target": "buy basic travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 474,
+    "title": "Gold Travel Guide",
+    "price": 33,
+    "category": "books",
+    "reward_tag": "gold travel",
+    "target": "buy gold travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 475,
+    "title": "Teal Travel Guide",
+    "price": 18,
+    "category": "books",
+    "reward_tag": "teal travel",
+    "target": "buy teal travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 476,
+    "title": "Portable Travel Guide",
+    "price": 27,
+    "category": "books",
+    "reward_tag": "portable travel",
+    "target": "buy portable travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 477,
+    "title": "Silver Travel Guide",
+    "price": 19,
+    "category": "books",
+    "reward_tag": "silver travel",
+    "target": "buy silver travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 478,
+    "title": "Beige Travel Guide",
+    "price": 10,
+    "category": "books",
+    "reward_tag": "beige travel",
+    "target": "buy beige travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 479,
+    "title": "Navy Travel Guide",
+    "price": 26,
+    "category": "books",
+    "reward_tag": "navy travel",
+    "target": "buy navy travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 480,
+    "title": "Olive Travel Guide",
+    "price": 36,
+    "category": "books",
+    "reward_tag": "olive travel",
+    "target": "buy olive travel guide",
+    "attributes": [
+      "tourism",
+      "travel",
+      "reference"
+    ]
+  },
+  {
+    "id": 481,
+    "title": "Deluxe Magazine",
+    "price": 11,
+    "category": "books",
+    "reward_tag": "deluxe magazine",
+    "target": "buy deluxe magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 482,
+    "title": "Vintage Magazine",
+    "price": 30,
+    "category": "books",
+    "reward_tag": "vintage magazine",
+    "target": "buy vintage magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 483,
+    "title": "Silver Magazine",
+    "price": 10,
+    "category": "books",
+    "reward_tag": "silver magazine",
+    "target": "buy silver magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 484,
+    "title": "Burgundy Magazine",
+    "price": 32,
+    "category": "books",
+    "reward_tag": "burgundy magazine",
+    "target": "buy burgundy magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 485,
+    "title": "Yellow Magazine",
+    "price": 15,
+    "category": "books",
+    "reward_tag": "yellow magazine",
+    "target": "buy yellow magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 486,
+    "title": "Brown Magazine",
+    "price": 12,
+    "category": "books",
+    "reward_tag": "brown magazine",
+    "target": "buy brown magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 487,
+    "title": "Olive Magazine",
+    "price": 25,
+    "category": "books",
+    "reward_tag": "olive magazine",
+    "target": "buy olive magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 488,
+    "title": "Red Magazine",
+    "price": 37,
+    "category": "books",
+    "reward_tag": "red magazine",
+    "target": "buy red magazine",
+    "attributes": [
+      "monthly",
+      "reading",
+      "subscription"
+    ]
+  },
+  {
+    "id": 489,
+    "title": "Basic Comic Book",
+    "price": 31,
+    "category": "books",
+    "reward_tag": "basic comic",
+    "target": "buy basic comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 490,
+    "title": "Brown Comic Book",
+    "price": 38,
+    "category": "books",
+    "reward_tag": "brown comic",
+    "target": "buy brown comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "Teal Comic Book",
+    "price": 27,
+    "category": "books",
+    "reward_tag": "teal comic",
+    "target": "buy teal comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 492,
+    "title": "Green Comic Book",
+    "price": 20,
+    "category": "books",
+    "reward_tag": "green comic",
+    "target": "buy green comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 493,
+    "title": "Lightweight Comic Book",
+    "price": 22,
+    "category": "books",
+    "reward_tag": "lightweight comic",
+    "target": "buy lightweight comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "Silver Comic Book",
+    "price": 34,
+    "category": "books",
+    "reward_tag": "silver comic",
+    "target": "buy silver comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "Navy Comic Book",
+    "price": 33,
+    "category": "books",
+    "reward_tag": "navy comic",
+    "target": "buy navy comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "Deluxe Comic Book",
+    "price": 14,
+    "category": "books",
+    "reward_tag": "deluxe comic",
+    "target": "buy deluxe comic book",
+    "attributes": [
+      "graphic",
+      "reading",
+      "illustrated"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "benchmark": "WebArena",
+  "agent_type": "GPT-4 with Chain-of-Thought",
+  "success_rate": 0.1441,
+  "avg_steps": 3.9,
+  "total_tasks": 812,
+  "source": "Published results from WebArena paper (arXiv:2307.13854)",
+  "evaluation_date": "2025-11-09T22:28:30.628658",
+  "mode": "published_baseline"
+}
